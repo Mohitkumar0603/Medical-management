@@ -1,0 +1,37 @@
+Disease,Path
+FUNGAL INFECTION,./disease_descriptions/Slide1.jpg
+ALLERGY,./disease_descriptions/Slide2.jpg
+GERD,./disease_descriptions/Slide3.jpg
+CHRONIC CHOLESTASIS,./disease_descriptions/Slide4.jpg
+DRUG REACTION,./disease_descriptions/Slide5.jpg
+PEPTIC ULCER DISEAE,./disease_descriptions/Slide6.jpg
+AIDS,./disease_descriptions/Slide7.jpg
+DIABETES,./disease_descriptions/Slide8.jpg
+GASTROENTERITIS,./disease_descriptions/Slide9.jpg
+BRONCHIAL ASTHMA,./disease_descriptions/Slide10.jpg
+HYPERTENSION,./disease_descriptions/Slide11.jpg
+ MIGRAINE,./disease_descriptions/Slide12.jpg
+CERVICAL SPONDYLOSIS,./disease_descriptions/Slide13.jpg
+PARALYSIS (BRAIN HEMORRHAGE),./disease_descriptions/Slide14.jpg
+JAUNDICE,./disease_descriptions/Slide15.jpg
+MALARIA,./disease_descriptions/Slide16.jpg
+CHICKEN POX,./disease_descriptions/Slide17.jpg
+DENGUE,./disease_descriptions/Slide18.jpg
+TYPHOID,./disease_descriptions/Slide19.jpg
+HEPATITIS A,./disease_descriptions/Slide20.jpg
+HEPATITIS B,./disease_descriptions/Slide21.jpg
+HEPATITIS C,./disease_descriptions/Slide22.jpg
+HEPATITIS D,./disease_descriptions/Slide23.jpg
+HEPATITIS E,./disease_descriptions/Slide24.jpg
+ALCOHOLIC HEPATITIS,./disease_descriptions/Slide25.jpg
+TUBERCULOSIS,./disease_descriptions/Slide26.jpg
+PNEUMONIA,./disease_descriptions/Slide27.jpg
+DIMORPHIC HEMMORHOIDS(PILES),./disease_descriptions/Slide28.jpg
+HEART ATTACK,./disease_descriptions/Slide29.jpg
+VARICOSEVEINS,./disease_descriptions/Slide30.jpg
+OSTEOARTHRISTIS,./disease_descriptions/Slide31.jpg
+ARTHRITIS,./disease_descriptions/Slide32.jpg
+ACNE,./disease_descriptions/Slide33.jpg
+URINARY TRACT INFECTION,./disease_descriptions/Slide34.jpg
+PSORIASIS,./disease_descriptions/Slide35.jpg
+IMPETIGO,./disease_descriptions/Slide36.jpg
